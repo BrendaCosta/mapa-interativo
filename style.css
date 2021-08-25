@@ -1,0 +1,28 @@
+body{
+
+    background-color: #6495ed;
+}
+
+h1{
+    color: cornsilk;
+    font-family: monospace;
+    font-size: 38px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.mapa{
+display: flex;
+justify-content: center;
+}
+
+.mapa path{
+    fill: #f3984d;
+    stroke: #fddcc0;
+    stroke-width:2px ;
+}
+
+.mapa :hover{
+    fill: #187511
+}
+
